@@ -37,13 +37,13 @@ This repository explores three different ALU architectures:
 
 ## 🧪 Block Diagram
 
-# Customised Full Adder
+Customised Full Adder
 ![image](https://github.com/user-attachments/assets/3bbcdde6-a3b8-4aab-b4c4-c97cbcd0db1e)
-# Latch-Based Technique
+ Latch-Based Technique
 ![image](https://github.com/user-attachments/assets/9511ff5c-dc89-4462-8332-dc0aa00ab597)
-# Resource-Sharing Technique
+ Resource-Sharing Technique
 ![image](https://github.com/user-attachments/assets/e0f94f42-8374-48dc-87bc-ea93f549c46e)
-# Proposed Method
+ Proposed Method
 ![image](https://github.com/user-attachments/assets/0c68d9b7-135c-4a0c-8fbc-914e2b0f40fe)
 
 
@@ -59,9 +59,9 @@ This repository explores three different ALU architectures:
 
 ## 🧪 Simulation Results
 
-# Power Analysis
+Power Analysis
 ![image](https://github.com/user-attachments/assets/f741005d-3959-4628-b1b3-36b780833e61)
-# Proposed ALU
+Proposed ALU
 ![image](https://github.com/user-attachments/assets/174ed697-62eb-4250-a38e-435b825b6c97)
 
 
