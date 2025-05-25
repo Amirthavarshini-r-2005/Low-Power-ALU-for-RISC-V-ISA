@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/03470a35-99cf-4e9a-8c89-d882f8b174ad)# Low-Power-ALU-for-RISC-V-ISA
+# Low-Power-ALU-for-RISC-V-ISA
 This repository contains Verilog HDL code, simulation files, and power analysis reports for three ALU architectures designed for low-power embedded applications
 
 ## 📌 Description
